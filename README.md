@@ -1,2 +1,2 @@
 # smokey-river
-a project
+is a digital painting conceived by Zeejah Ahmed.
