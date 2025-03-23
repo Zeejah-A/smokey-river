@@ -1,2 +1,2 @@
 # smokey-river
-is a digital painting conceived by Zeejah Ahmed.
+is a digital painting conceived of by Zeejah Ahmed.
